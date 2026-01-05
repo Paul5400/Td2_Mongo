@@ -1,7 +1,7 @@
 <?php
 /**
  * TD 2 : Mini-application - Ajout de produit
- * Version : Minimaliste
+ * 
  */
 
 require_once __DIR__ . "/../src/vendor/autoload.php";
