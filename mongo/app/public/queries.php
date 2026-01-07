@@ -1,7 +1,6 @@
 <?php
 /**
  * TD 2 : Requêtes PHP sur MongoDB
- * Ce script exécute les requêtes demandées dans la partie 2 du TD.
  */
 
 require_once __DIR__ . "/../src/vendor/autoload.php";
